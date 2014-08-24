@@ -5,5 +5,12 @@
 
 Before you start coding, take the time to learn the language. If you're using 
 a language such as JavaScript, become an expert in prototypal inheritence. If 
-you're about to write Java, learn the ways of Object-Oriented Programming -- 
+you're about to write Java, learn the ways of Object-Oriented Programming. 
 Haskell? Learn the ways of Functional Programming.
+
+If you're trying to write using the same style in every language, you're not 
+taking advantage of the language's strengths. If every language was designed 
+to be used in the exact same way, then we wouldn't have more than a few languages.
+
+> Conclusion: Learn the language that you're using, and use it to it's
+> strengths -- don't write in _x_ languages using _y_ language style for them all.
