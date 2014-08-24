@@ -1,1 +1,16 @@
-#When Teams Fail as a Team
+# When Teams Fail as a Team
+
+> Inspiration: Witnessing teams that spend more time pointing fingers at one 
+> another instead of solving problems.
+
+Sometimes people take the, "take ownership and responsibility" way of team management 
+out of context and it becomes a blaming game. When you're reprimanded for making 
+a mistake, you often become defensive the next time something happens -- and
+what do you do? You look for someone else to blame.
+
+Teams need start working as a teams again. What happened to the days when you 
+helped others improve source!? When you saw an issue, fixed it, and then shared 
+it with the original author without making them feel incompetent.
+
+> Conclusion: Teach one another. Stop pointing fingers, make fixes -- make 
+> improvements -- and move on.
