@@ -1,0 +1,9 @@
+# Threads and Processes
+
+> Inspiration: Wondering why anyone would use multi-threads for performance, instead 
+> of multi-processes.
+
+Threading should be used for keeping applications responsive. For scale and performance, 
+you want to use a multi-process model.
+
+> Conclusion: In most all cases, multi-processing is the answer.
