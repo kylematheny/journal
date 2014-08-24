@@ -1,7 +1,7 @@
 # Learn the Language
 
-Inspiration: Hearing complaints about language _x_ not having something from 
-language _y_.
+> Inspiration: Hearing complaints about language _x_ not having something from 
+> language _y_.
 
 Before you start coding, take the time to learn the language. If you're using 
 a language such as JavaScript, become an expert in prototypal inheritence. If 
