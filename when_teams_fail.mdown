@@ -8,7 +8,7 @@ out of context and it becomes a blaming game. When you're reprimanded for making
 a mistake, you often become defensive the next time something happens -- and
 what do you do? You look for someone else to blame.
 
-Teams need start working as a teams again. What happened to the days when you 
+Teams need to start working as a teams again. What happened to the days when you 
 helped others improve source!? When you saw an issue, fixed it, and then shared 
 it with the original author without making them feel incompetent.
 
